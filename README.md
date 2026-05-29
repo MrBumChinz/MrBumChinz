@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:162032,100:0d1117&height=210&section=header&text=Mr%20Bumchinz%20%C2%B7%20James&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20%C2%B7%20Trading%20Systems%20%C2%B7%20Machine%20Learning%20%C2%B7%20Full-Stack%20Builder&descAlignY=60&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:162032,100:0d1117&height=210&section=header&text=Mr%20Bumchinz%20%C2%B7%20James&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Self-Taught%20%C2%B7%20Self-Employed%20%C2%B7%20Cybersecurity%20%C2%B7%20Trading%20Systems%20%C2%B7%20Machine%20Learning&descAlignY=60&descSize=16" width="100%" />
 
   <a href="https://github.com/MrBumChinz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+secure+systems%2C+trading+infrastructure%2C+and+intelligent+software.;Cybersecurity+%C2%B7+Algorithmic+Trading+%C2%B7+ML+%C2%B7+Automation+%C2%B7+Web+Engineering.;Offensive+mindset.+Clean+execution.+Useful+systems." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=980&lines=Self-taught.+Self-employed.+Building+secure+systems%2C+trading+infrastructure%2C+and+intelligent+software.;Cybersecurity+%C2%B7+Algorithmic+Trading+%C2%B7+Machine+Learning+%C2%B7+Automation+%C2%B7+Web+Engineering.;Offensive+mindset.+Clean+execution.+Useful+systems." alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -14,12 +14,21 @@
 
 ---
 
+## System Status
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MrBumChinz/MrBumChinz/main/assets/cyber-terminal.svg" width="100%" alt="Cyber terminal animation" />
+</div>
+
+---
+
 ## About Me
 
 ```python
 class James:
     def __init__(self):
         self.alias = "Mr Bumchinz"
+        self.background = ["self-taught", "self-employed"]
         self.role = [
             "cybersecurity engineer",
             "algorithmic trading developer",
@@ -40,13 +49,13 @@ class James:
         self.mindset = "offensive thinking + clean execution"
 
     def value(self):
-        return "Build useful systems. Ship fast. Make them hard to break."
+        return "Self-taught. Self-employed. Build useful systems. Ship fast. Make them hard to break."
 
 me = James()
 print(me.value())
 ```
 
-I work across **cybersecurity**, **markets**, **machine learning**, and **software engineering**.
+I am **self-taught** and **self-employed**, building across **cybersecurity**, **markets**, **machine learning**, and **software engineering**.
 
 My focus is building tools and systems that are not just technically interesting, but actually useful in practice — from security research and automation, to trading infrastructure, indicators, dashboards, intelligent products, and client-facing software.
 
@@ -56,7 +65,7 @@ My focus is building tools and systems that are not just technically interesting
 
 <div align="center">
 
-`Cybersecurity` · `Algorithmic Trading` · `Machine Learning` · `Automation` · `Full-Stack Development` · `Rapid Prototyping`
+`Self-Taught` · `Self-Employed` · `Cybersecurity` · `Algorithmic Trading` · `Machine Learning` · `Automation` · `Full-Stack Development`
 
 </div>
 
@@ -68,13 +77,27 @@ My focus is building tools and systems that are not just technically interesting
 | **Trading Systems** | Bots, indicators, strategy tooling, market-focused automation, MQL5 development |
 | **Machine Learning / AI** | Applied ML, intelligent automation, model-driven workflows, data-backed product features |
 | **Web / Product Engineering** | Websites, dashboards, APIs, backend systems, tools people actually use |
-| **Automation / Internal Tools** | Workflow automation, scripting, integrations, repetitive task elimination |
+| **Independent Build / Delivery** | Self-directed execution, rapid prototyping, client-focused development, shipping real systems |
+
+---
+
+## Inference / Learning Systems
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MrBumChinz/MrBumChinz/main/assets/ml-neural.svg" width="100%" alt="ML neural animation" />
+</div>
+
+Applied ML, intelligent automation, model-driven tooling, and systems built to turn signal into usable output.
 
 ---
 
 ## Technical Range
 
 ```yaml
+background:
+  - self-taught
+  - self-employed
+
 languages:
   - Python
   - JavaScript
@@ -104,11 +127,21 @@ environment:
 
 ---
 
+## Market Systems
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MrBumChinz/MrBumChinz/main/assets/trading-chart.svg" width="100%" alt="Trading chart animation" />
+</div>
+
+Bots, indicators, strategy tooling, and trading infrastructure built for practical use.
+
+---
+
 ## Working Style
 
 <div align="center">
 
-> **Offensive mindset. Clean execution. Useful systems.**
+> **Self-taught. Self-employed. Offensive mindset. Clean execution. Useful systems.**
 >
 > I like building software that is sharp, commercially useful, and reliable when it matters.
 
