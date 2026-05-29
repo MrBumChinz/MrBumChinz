@@ -7,9 +7,9 @@
 
   <br/><br/>
 
-  <a href="https://soulcage.win/"><img src="https://img.shields.io/badge/Website-soulcage.win-111827?style=for-the-badge&logo=firefox&logoColor=58A6FF" /></a>
-  <a href="https://www.mql5.com/en/users/raefus"><img src="https://img.shields.io/badge/MQL5-raefus-111827?style=for-the-badge&logo=meta&logoColor=3FB950" /></a>
-  <a href="https://discord.gg/Z5xYf4cTpr"><img src="https://img.shields.io/badge/Discord-Join%20the%20server-111827?style=for-the-badge&logo=discord&logoColor=5865F2" /></a>
+  <a href="https://soulcage.win/"><img src="https://img.shields.io/badge/Website-Play%20The%20Game-111827?style=for-the-badge&logo=firefox&logoColor=58A6FF" /></a>
+  <a href="https://www.mql5.com/en/users/raefus"><img src="https://img.shields.io/badge/MQL5-Learn%20To%20Trade-111827?style=for-the-badge&logo=meta&logoColor=3FB950" /></a>
+  <a href="https://discord.gg/Z5xYf4cTpr"><img src="https://img.shields.io/badge/Discord-Join%20The%20Server-111827?style=for-the-badge&logo=discord&logoColor=5865F2" /></a>
 </div>
 
 ---
@@ -120,11 +120,11 @@ environment:
 
 <div align="center">
 
-**Website** · [soulcage.win](https://soulcage.win/)
+**Play The Game** · [soulcage.win](https://soulcage.win/)
 
-**MQL5** · [raefus](https://www.mql5.com/en/users/raefus)
+**Learn To Trade** · [raefus](https://www.mql5.com/en/users/raefus)
 
-**Discord** · [Join the server](https://discord.gg/Z5xYf4cTpr)
+**Join The Server** · [Discord](https://discord.gg/Z5xYf4cTpr)
 
 </div>
 
