@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:162032,100:0d1117&height=210&section=header&text=Mr%20Bumchinz%20%C2%B7%20James&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Self-Taught%20%C2%B7%20Self-Employed%20%C2%B7%20Cybersecurity%20%C2%B7%20Trading%20Systems%20%C2%B7%20Machine%20Learning&descAlignY=60&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:162032,100:0d1117&height=190&section=header&text=Mr%20Bumchinz%20%C2%B7%20James&fontSize=34&fontColor=ffffff" width="100%" />
 
   <a href="https://github.com/MrBumChinz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=980&lines=Self-taught.+Self-employed.+Building+secure+systems%2C+trading+infrastructure%2C+and+intelligent+software.;Cybersecurity+%C2%B7+Algorithmic+Trading+%C2%B7+Machine+Learning+%C2%B7+Automation+%C2%B7+Web+Engineering.;Offensive+mindset.+Clean+execution.+Useful+systems." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Self-taught+%C2%B7+Self-employed;Cybersecurity+%C2%B7+Trading+%C2%B7+ML;Building+useful+systems" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -57,7 +57,7 @@ print(me.value())
 
 I am **self-taught** and **self-employed**, building across **cybersecurity**, **markets**, **machine learning**, and **software engineering**.
 
-My focus is building tools and systems that are not just technically interesting, but actually useful in practice — from security research and automation, to trading infrastructure, indicators, dashboards, intelligent products, and client-facing software.
+My focus is building tools and systems that are not just technically interesting, but actually useful in practice — from security research and automation, to trading infrastructure, indicators, and production-ready software.
 
 ---
 
